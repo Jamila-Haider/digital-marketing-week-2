@@ -16,7 +16,6 @@ Understand SEO fundamentals, learn how search engines rank websites, perform key
 - Technical SEO (Sitemap, Robots.txt, Speed, Mobile, HTTPS)
 
 ## SEO Tools Used
-- Google Keyword Planner
 - Google Trends
 - Ubersuggest
 - AnswerThePublic
@@ -32,18 +31,18 @@ Understand SEO fundamentals, learn how search engines rank websites, perform key
 - On-Page SEO controls what's on your page; Off-Page builds authority through backlinks
 - Long-tail keywords are easier to rank for and convert better
 - Search intent determines what type of content to create
-- Technical SEO is the foundation — if it's broken, nothing else works
+- Technical SEO is the foundation, if it's broken, nothing else works
 - Meta titles and descriptions directly affect click-through rates
 
 ## References
 - Google Search Central: https://developers.google.com/search
 - HubSpot Academy: https://academy.hubspot.com
-- Ahrefs YouTube: https://youtube.com/@ahrefs
 - Neil Patel YouTube: https://youtube.com/@neilpatel
 
 ## Folder Structure
+- `competitor-analysis/` — 3 competitor SEO analysis
 - `keyword-research/` — 25-keyword research report
 - `on-page-seo/` — on-page SEO optimization plan
-- `competitor-analysis/` — 3 competitor SEO analysis
-- `seo-audit/` — website SEO audit report
 - `screenshots/` — tool screenshots and supporting visuals
+- `seo-audit/` — website SEO audit report
+
