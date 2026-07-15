@@ -24,7 +24,7 @@ Understand SEO fundamentals, learn how search engines rank websites, perform key
 ## Practical Tasks Completed
 1. Keyword Research Report — 25 keywords for Restaurant & Food niche
 2. On-Page SEO Plan — full optimization for a restaurant webpage
-3. Competitor SEO Analysis — 3 competitors analyzed
+3. Competitor SEO Analysis — 2 competitors analyzed
 4. Website SEO Audit — basic audit with findings and recommendations
 
 ## Key Learnings
@@ -40,7 +40,7 @@ Understand SEO fundamentals, learn how search engines rank websites, perform key
 - Neil Patel YouTube: https://youtube.com/@neilpatel
 
 ## Folder Structure
-- `competitor-analysis/` — 3 competitor SEO analysis
+- `competitor-analysis/` — 2 competitor SEO analysis
 - `keyword-research/` — 25-keyword research report
 - `on-page-seo/` — on-page SEO optimization plan
 - `screenshots/` — tool screenshots and supporting visuals
